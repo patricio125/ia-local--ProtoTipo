@@ -1,4 +1,4 @@
-[IA LOCAL PARA MOVLIES CON KIVY (1).py](https://github.com/user-attachments/files/33616409/version.final.solo.falta.scerrlo.y.listo.copia.de.seguridad.final.1.py)
+[IA LOCAL PARA MOVLIES CON KIVY (1).py]
 # ia-local--ProtoTipo
 Movli Memoria Largo Con python  y Sql y API Firbase.
 import os
